@@ -19,13 +19,13 @@ Few points to note:
 
 [charts](https://github.com/souravsekhar/helm-cd): All required helm charts to deploy the applications on K8s
 
-[charts/hello-world](https://github.com/souravsekhar/helm-cd/hello-worl): Packaged hello-world app
+[charts/hello-world](https://github.com/souravsekhar/helm-cd/tree/master/hello-world): Packaged hello-world app
 
-[charts/prometheus](https://github.com/souravsekhar/helm-cd/prometheus): Packaged prometheus for monitoring
+[charts/prometheus](https://github.com/souravsekhar/helm-cd/tree/master/prometheus): Packaged prometheus for monitoring
 
-[charts/grafana](https://github.com/souravsekhar/helm-cd/grafana): Packaged grafana for dashboarding
+[charts/grafana](https://github.com/souravsekhar/helm-cd/tree/master/grafana): Packaged grafana for dashboarding
 
-[automate-deploy](https://github.com/souravsekhar/helm-cd/playbook.yaml): ansible playbook to automate the helm deployments.
+[automate-deploy](https://github.com/souravsekhar/helm-cd/blob/master/playbook.yaml): ansible playbook to automate the helm deployments.
 
 ## Design
 
