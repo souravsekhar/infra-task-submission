@@ -45,7 +45,7 @@ Grafana is used for visualising the metrics from prometheus.
 2. Configure and run Jenkins jobs for below:-
 
     1. Create EKS
-    2. Destroy EKS
+    2. Destroy EKS (Optional, when needed)
     3. Build app image and push to registry
     4. Execute playbook to deploy K8s resources.
 
